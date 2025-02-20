@@ -7,3 +7,6 @@
 [submodule "submodules/linuxserver/docker-nextcloud"]
 	path = submodules/linuxserver/docker-nextcloud
 	url = git@github.com:homeserversample/docker-nextcloud.git
+[submodule "submodules/hss/lyrionmusicserver"]
+	path = submodules/hss/lyrionmusicserver
+	url = git@github.com:homeserversample/lyrionmusicserver.git
