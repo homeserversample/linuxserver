@@ -1,3 +1,6 @@
 [submodule "submodules/wshihadeh/docker-registry"]
 	path = submodules/wshihadeh/docker-registry
 	url = git@github.com:homeserversample/docker-registry.git
+[submodule "submodules/linuxserver/docker-plex"]
+	path = submodules/linuxserver/docker-plex
+	url = git@github.com:homeserversample/docker-plex.git
