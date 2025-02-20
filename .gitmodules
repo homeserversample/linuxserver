@@ -4,3 +4,6 @@
 [submodule "submodules/linuxserver/docker-plex"]
 	path = submodules/linuxserver/docker-plex
 	url = git@github.com:homeserversample/docker-plex.git
+[submodule "submodules/linuxserver/docker-nextcloud"]
+	path = submodules/linuxserver/docker-nextcloud
+	url = git@github.com:homeserversample/docker-nextcloud.git
