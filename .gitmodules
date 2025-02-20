@@ -10,3 +10,6 @@
 [submodule "submodules/hss/lyrionmusicserver"]
 	path = submodules/hss/lyrionmusicserver
 	url = git@github.com:homeserversample/lyrionmusicserver.git
+[submodule "submodules/pi-hole/docker-pi-hole"]
+	path = submodules/pi-hole/docker-pi-hole
+	url = git@github.com:homeserversample/docker-pi-hole.git
