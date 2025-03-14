@@ -1,0 +1,5 @@
+./submodules/hss/lyrionmusicserver/docker-compose.yaml                                          
+./submodules/pi-hole/docker-pi-hole/docker-compose.yaml                                          
+./submodules/linuxserver/docker-nextcloud/docker-compose.yaml
+./submodules/linuxserver/docker-plex/docker-compose.yaml    
+./submodules/wshihadeh/docker-registry/docker-compose.yml
